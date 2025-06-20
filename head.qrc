@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>friend.png</file>
+        <file>deleteFriend.png</file>
+        <file>applyFriend.png</file>
+        <file>addfriend.png</file>
+        <file>blue.png</file>
+        <file>girl1.png</file>
+        <file>biaoqingbao.png</file>
+        <file>wenjianchuanshu.png</file>
+    </qresource>
+</RCC>

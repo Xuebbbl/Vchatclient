@@ -1,0 +1,24 @@
+<RCC>
+    <qresource prefix="/">
+        <file>addfriend.png</file>
+        <file>applyFriend.png</file>
+        <file>blue.png</file>
+        <file>deleteFriend.png</file>
+        <file>friend.png</file>
+        <file>girl1.png</file>
+        <file>weixin.png</file>
+        <file>wenjianchuanshu.png</file>
+        <file>yanseqiehuan.png</file>
+        <file>WechatIMG36.jpeg</file>
+        <file>geshi.png</file>
+        <file>qunliao.png</file>
+        <file>fabuzuopin-2.png</file>
+        <file>wechatfriend.png</file>
+        <file>dianzan.png</file>
+        <file>weixin-pinglun.png</file>
+        <file>shanchusekuai.png</file>
+        <file>pengyouquanbiaoqing.png</file>
+        <file>aixin.png</file>
+        <file>zhinengyun.png</file>
+    </qresource>
+</RCC>
